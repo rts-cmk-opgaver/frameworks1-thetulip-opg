@@ -1,4 +1,4 @@
-# Dynamisk web øvelse
+# Frameworks 1 øvelse
 
 ## Opgaven indeholder følgende filer:
 - en figma fil (i assets mappen)
@@ -20,3 +20,11 @@
 - Commit og push ofte
 - Tænk over dine commit-beskeder. Din commit historik må gerne afspejle udviklingen i dit projekt med små beskrivelser. 
 - aflevér når dagen er gået ved at lave en pull-request.
+
+
+### **Feedback**: 
+Din lærer kigger dit pull-request igennem, og hvis du blot får et godkendt/approved tilbage betyder det, at du har løst opgaven ligesom det var forventet. 
+
+Hvis din lærer sender et godkendt/approved tilbage, men også tilknytter en kommentar, er det måske for at gøre opmærksom på en detalje du let kan forbedre. Du behøver ikke at lave en ny pull request.
+
+Hvis du får en anmodning tilbage fra din lærer om at udføre ændringer, skal du implementere ændringerne/løse problemet og lave en ny pull-request. 
