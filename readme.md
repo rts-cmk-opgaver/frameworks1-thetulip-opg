@@ -1,5 +1,6 @@
-# Frameworks 1 øvelse
+**FRAMEWORKS 1**
 
+# The Tulip opgave
 ### **Opgaven indeholder følgende filer:**
 - en figma fil (i assets mappen)
 
