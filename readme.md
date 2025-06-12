@@ -5,9 +5,9 @@
 - en figma fil (i assets mappen)
 
 ### **Opgavebeskrivelse**
-- Brug create-react-app til at installere en react applikation
-  (BENSPÆND: Mappen skal være tom, når du laver en create-react-app, så du må lige flytte de filer som følger med opgaven ud af mappen.)
-- du kan bruge `npx create-react-app .` til at oprette en react app i den mappe du allerede står i uden at oprette en ny mappe.
+- Brug create vite@latest til at installere en react applikation
+  (BENSPÆND: Mappen skal være tom, når du laver en create vite@latest, så du må lige flytte de filer som følger med opgaven ud af mappen.)
+- du kan bruge `npm create vite@latest .` til at oprette en react app i den mappe du allerede står i uden at oprette en ny mappe.
 - Du skal bruge det udleverede api til at hente data fra.
 - du skal bygge hele løsningen i react.
 - husk at lave en branch til dit arbejde
